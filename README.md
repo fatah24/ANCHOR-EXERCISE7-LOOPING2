@@ -1,0 +1,2 @@
+# ANCHOR-EXERCISE7-LOOPING2
+gambar bintang
